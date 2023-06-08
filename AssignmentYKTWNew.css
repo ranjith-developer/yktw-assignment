@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: #fba3ab;
+    color: #3c386d;
+    padding: 16px;
+}
+
+.section-width {
+    width: 70%;
+}
+
+.icon-container {
+    border: 2px solid;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-border {
+    border: 3px solid;
+    border-top: none;
+    border-left: none;
+    width: 50%;
+}
+
+.info-border {
+    border: 3px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 50vh;
+}
+
+/* .about-text {
+    font-size: 12px;
+}
+
+.address-text {
+    font-size: 12px;
+} */
+
+.year-border {
+    border: 3px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.skills-border {
+    width: 50vh;
+    border: 3px solid;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+}
+
+.skills-border2 {
+    border: 3px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.skill-rating {
+    border: 2px solid;
+    background-color: #3c386d;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.awards-section-width {
+    width: 50vh;
+}
+
+.interest-icon-container {
+    background-color: #3c386d;
+    border: 2px solid;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
